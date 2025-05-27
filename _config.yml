@@ -8,15 +8,16 @@ author:
   name: Gabriel Hubermann
   email: gabriel@example.com
 
+avatar: "/assets/images/avatar.jpg"
+
 theme: jekyll-theme-chirpy
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
 
 social:
   github: hubermann
-  linkedin: gabrielhubermann
-  email: gabriel@example.com
+  linkedin: https://www.linkedin.com/in/gabriel-hubermann-6786915/
+  email: hubermann@gmail.com
