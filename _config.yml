@@ -10,7 +10,7 @@ author:
 
 avatar: "/assets/images/avatar.jpg"
 
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
